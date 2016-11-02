@@ -11,7 +11,7 @@ for (pixel: image){
     pixel.setRed(pixel2.getRed());
     pixel.setGreen(pixel2.getGreen());
     pixel.setBlue(pixel2.getBlue());
-    }
   }
+}
 
 print(image);
